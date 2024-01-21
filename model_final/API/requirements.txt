@@ -1,0 +1,13 @@
+fastapi==0.109.0
+python-multipart
+pickle4==0.0.1
+uvicorn
+numpy
+geopy==2.4.1
+joblib
+pandas
+scikit-learn
+pydantic==2.5.3
+streamlit
+typing
+requests
